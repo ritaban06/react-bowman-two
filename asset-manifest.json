@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-bowman-two/static/css/main.799e85e5.css",
+    "main.js": "/react-bowman-two/static/js/main.02f62da8.js",
+    "static/js/453.9af4cdd2.chunk.js": "/react-bowman-two/static/js/453.9af4cdd2.chunk.js",
+    "index.html": "/react-bowman-two/index.html",
+    "main.799e85e5.css.map": "/react-bowman-two/static/css/main.799e85e5.css.map",
+    "main.02f62da8.js.map": "/react-bowman-two/static/js/main.02f62da8.js.map",
+    "453.9af4cdd2.chunk.js.map": "/react-bowman-two/static/js/453.9af4cdd2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.799e85e5.css",
+    "static/js/main.02f62da8.js"
+  ]
+}
